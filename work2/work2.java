@@ -1,5 +1,5 @@
 package work2;
-// 2) Найти минимальное значение
+// 3) Найти максимальное значение
 
 import java.util.ArrayList;
 import java.util.Random;
